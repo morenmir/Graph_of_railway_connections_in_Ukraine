@@ -1,5 +1,5 @@
 # Graph_of_railway_connections_in_Ukraine
-Visualization using a graph of railway connections between cities of the country, and writing a program that independently finds the optimal route from given directions and shows the duration of the trip.
+Visualization of railway connections between cities of the country, and writing a program that independently finds the optimal route from given directions and shows the duration of the trip.
 
 This project package consists of the following file:
 
