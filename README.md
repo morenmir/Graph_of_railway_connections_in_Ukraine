@@ -1,5 +1,5 @@
 # Graph of railway connections in Ukraine
-This project finds the optimal route from given directions and shows the duration of the trip, while vizualizing the railway connections between cities of the country.
+This project finds the optimal route from given directions and shows the duration of the trip, while visualizing the railway connections between cities of the country.
 
 This project package consists of the following file: "Ukraine.ipynb". It includes all coding steps with two graphs:
 
